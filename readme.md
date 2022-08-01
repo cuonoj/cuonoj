@@ -3,8 +3,10 @@
 ### I'm a frontend developer! 👽
 - 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS.
 - 🧑‍💻 Front-end developer
-- 🏎️💨 F1addicted
+- 🏎️💨 Formula 1 addicted
+- 🥋 Japanese jiu-jitsu player
 - ⚽ @sscnapoli sempre!
+- 🏈 NFL
 - 👦 proudly Father
 - 🍷 wine and 📱technology enthusiast
 - 🌱 Always look to improve
