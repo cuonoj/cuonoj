@@ -1,6 +1,6 @@
 ## Hi there... I'm Jose 👋
 
-### I'm a frontend developer! 👽
+### I'm a Lead Web Developer! 👽
 - 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS.
 - 🧑‍💻 Front-end developer
 - 🏎️💨 Formula 1 addicted
@@ -10,7 +10,7 @@
 - 👦 proudly Father
 - 🍷 wine and 📱technology enthusiast
 - 🌱 Always look to improve
-- 📫 How to reach me: [twitter](https://www.twitter.com/cuonoj/)
+- 📫 How to reach me: [twitter](https://www.twitter.com/dev__00__dev/)
 
 ---
 
