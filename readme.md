@@ -1,12 +1,13 @@
 ## Hi there... I'm Jose 👋
 
 ### I'm a Lead Web Developer! 👽
-- 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS.
-- 🧑‍💻 Front-end developer
+- 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS and lead a tea of 5 developers and 3 designers.
+- 🧑‍💻 Front-end developer by default
 - 🏎️💨 Formula 1 addicted
 - 🥋 Japanese jiu-jitsu player
+- 🏉 retire Rugby player lol
 - ⚽ @sscnapoli sempre!
-- 🏈 NFL
+- 🏈 NFL fan
 - 👦 proudly Father
 - 🍷 wine and 📱technology enthusiast
 - 🌱 Always look to improve
