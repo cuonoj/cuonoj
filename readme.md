@@ -11,7 +11,7 @@
 - 👦 proudly Father
 - 🍷 wine and 📱technology enthusiast
 - 🌱 Always look to improve
-- 📫 How to reach me: [twitter](https://www.twitter.com/dev__00__dev/)
+- 📫 How to reach me: [website](https://www.cuono.dev/)
 
 ---
 
