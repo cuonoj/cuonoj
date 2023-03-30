@@ -1,8 +1,8 @@
 ## Hi there... I'm Jose 👋
 
 ### I'm a Frontend Developer! 👽
-- 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS and lead a tea of 5 developers and 3 designers.
-- 🧑‍💻 Front-end developer by default
+- 🔭 I’m working coding in PHP, Twig, Laravel, Javascript and CSS.
+- 🧑‍💻 Front-end developer
 - 🏎️💨 Formula 1 addicted
 - 🥋 Japanese jiu-jitsu player
 - 🏉 retire Rugby player lol
