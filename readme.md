@@ -1,4 +1,4 @@
-## Hi there... I'm Jose 👋
+## Hi there... 👋
 
 ### I'm a Frontend Developer! 👽
 - 🔭 I’m working coding in PHP, Twig, Javascript and CSS.
