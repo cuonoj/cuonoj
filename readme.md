@@ -1,7 +1,7 @@
 ## Hi there... 👋
 
-### I'm a Frontend Developer! 👽
-- 🔭 I’m working coding in PHP, Twig, Javascript and CSS.
+### I'm a Full-Stack Developer! 👽
+- 🔭 I do algorithm development lol
 - 🧑‍💻 Front-end developer
 - 🏎️💨 Formula 1 addicted
 - 🥋 Japanese jiu-jitsu player
