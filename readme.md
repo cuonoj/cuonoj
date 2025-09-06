@@ -1,6 +1,6 @@
 ## Hi there... 👋
 
-### I'm a Full-Stack Developer! 👽
+### 👽
 - 🔭 I do algorithm development 🤓
 - 🏎️💨 Formula 1 addicted
 - 🥋 Japanese jiu-jitsu player
